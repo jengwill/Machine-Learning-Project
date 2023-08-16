@@ -1,2 +1,2 @@
 # Machine-Learning-Project
-An in-depth Machine Learning project where I show my proficiency creating algorithms 
+In this project, I employed machine learning techniques, specifically utilizing the DecisionTreeRegressor, to analyze a dataset and predict outcomes. I also created a series of six distinct charts to visualize different facets of the data, aiding in conveying insights effectively. The experience deepened my understanding of model selection, hyperparameter tuning, and the importance of domain knowledge. Crafting informative visualizations underscored the value of simplifying complex information for better decision-making.
